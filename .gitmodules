@@ -1,0 +1,3 @@
+[submodule "bootelf"]
+	path = bootelf
+	url = git@github.com:pitust/bootelf
